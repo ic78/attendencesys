@@ -60,7 +60,7 @@ window.grid_columnconfigure(0, weight=1)
 
 
 message = tk.Label(window, text="Face-Recognition-Based-Attendance-Management-System",
-                   bg="Green", fg="white", width=50, height=3, font=('times', 30, 'italic bold underline'))
+                   bg="blue", fg="white", width=50, height=3, font=('times', 30, 'italic bold underline'))
 
 message.place(x=200, y=20)
 
